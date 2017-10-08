@@ -1,5 +1,7 @@
 # Doc2vec Sentiment Analysis
 
+**[See detail Notebook](Doc2vec Sentiment Analysis.ipynb)**
+
 Sự thành công của Word2vec đã được chứng minh trong rất nhiều công trình NLP.
 
 Nhắc lại về Word2vec, nó sử dụng 1 tập copus, qua một mạng Neural biểu diễn các word thành các vector, các vector giữ lại được tính chất ngữ nghĩa. Tức các từ mang ý nghĩa similar với nhau thì gần nhau trong không gian vector. Trong NLP, đây một trong những phương thức của word embedding. Word2vec hiện nay được sử dụng hết sức rộng rãi.
