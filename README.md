@@ -1,6 +1,6 @@
 # Doc2vec Sentiment Analysis
 
-**[Doc2vec Sentiment Analysis.ipynb](See detail Notebook)**
+**[>> See detail Notebook](Doc2vec%20Sentiment%20Analysis.ipynb)**
 
 Sự thành công của Word2vec đã được chứng minh trong rất nhiều công trình NLP.
 
